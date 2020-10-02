@@ -1,4 +1,4 @@
-Linear regression model methods
+#Linear regression model methods
 
 Three methods for training a linear regresion model are investigated. Namely Stochastic gradient descent, mini-batch gradient descent and a multi-layered perceptron. All of this is done using R-Studio.
 
