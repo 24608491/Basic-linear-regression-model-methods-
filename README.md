@@ -1,1 +1,1 @@
-Linear regression model methods
+Linear-regression-model-methods
